@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif;">
 
   <h1 style="margin-bottom: 5px;">
-    Hi 👋, I'm <span style="color:#4F46E5;">Houssam Hamdan</span>
+    Hi , I'm <span style="color:#4F46E5;">Houssam</span>
   </h1>
 
   <h3 style="margin-top: 0; color: #9CA3AF;">
@@ -41,7 +41,7 @@
  
 
   
-  <a href="https://www.linkedin.com/in/Houssam-HM" target="_blank">
+  <a href="https://www.linkedin.com/in/Houssam HM" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       title="LinkedIn"
