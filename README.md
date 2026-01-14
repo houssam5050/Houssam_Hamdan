@@ -37,18 +37,11 @@
 
 <p align="center">
   
-  <a href="mailto:hossamhamdan4545@gmail.com">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-      title="Email me"
-      width="40"
-    />
-  </a>
 
-  &nbsp;&nbsp;&nbsp;
+ 
 
   
-  <a href="https://www.linkedin.com/in/houssam-hm" target="_blank">
+  <a href="https://www.linkedin.com/in/Houssam-HM" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       title="LinkedIn"
