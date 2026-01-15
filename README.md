@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif;">
 
   <h1 style="margin-bottom: 5px;">
-    Hi , I'm <span style="color:#4F46E5;">Houssam</span>
+    Hi, I'm <span style="color:#4F46E5;">Houssam</span>
   </h1>
 
   <h3 style="margin-top: 0; color: #9CA3AF;">
@@ -15,13 +15,20 @@
   </p>
 
 </div>
+
 <hr style="border: 1px solid #1F2937;" />
-<h2>my projects</h2>
+
+<h2>🚀 My Projects</h2>
 <br>
+
 <ul>
-  <li><a href="https://hamdan-houssam.idsmobile.com/backoffice/products.php">backOffice</a>
-</li>
+  <li>
+    <a href="https://hamdan-houssam.idsmobile.com/backoffice/products.php" target="_blank">
+      BackOffice Management System
+    </a>
+  </li>
 </ul>
+
 <hr style="border: 1px solid #1F2937;" />
 
 <h2 align="center">🛠 Technologies I Use</h2>
@@ -33,28 +40,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL / SQL" width="50"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50"/>
 </p>
 
-
 <hr style="border: 1px solid #1F2937;" />
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-  
-
- 
-
-  
-  <a href="https://www.linkedin.com/in/Houssam HM" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       title="LinkedIn"
-      width="40"
+      width="45"
+      style="margin-right: 15px;"
+    />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg"
+      title="YouTube"
+      width="45"
     />
   </a>
 </p>
+
 
