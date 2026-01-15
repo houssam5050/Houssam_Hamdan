@@ -59,14 +59,20 @@
     />
   </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg"
-      title="YouTube"
-      width="45"
-    />
-  </a>
-</p>
+  
+<a href="https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg" target="_blank" title="YouTube">
+  <svg
+    width="45"
+    height="45"
+    viewBox="0 0 24 24"
+    fill="#FF0000"
+    xmlns="http://www.w3.org/2000/svg"
+    style="vertical-align: middle;"
+  >
+    <path d="M23.498 6.186a2.996 2.996 0 0 0-2.108-2.12C19.505 3.5 12 3.5 12 3.5s-7.505 0-9.39.566a2.996 2.996 0 0 0-2.108 2.12A31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .502 5.814 2.996 2.996 0 0 0 2.108 2.12C4.495 20.5 12 20.5 12 20.5s7.505 0 9.39-.566a2.996 2.996 0 0 0 2.108-2.12A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.502-5.814z"/>
+    <path d="M9.75 15.02V8.98L15.5 12l-5.75 3.02z" fill="white"/>
+  </svg>
+</a>
+
 
 
