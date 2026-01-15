@@ -15,7 +15,13 @@
   </p>
 
 </div>
-
+<hr style="border: 1px solid #1F2937;" />
+<h2>my projects</h2>
+<br>
+<ul>
+  <li><a href="https://hamdan-houssam.idsmobile.com/backoffice/products.php">backOffice</a>
+</li>
+</ul>
 <hr style="border: 1px solid #1F2937;" />
 
 <h2 align="center">🛠 Technologies I Use</h2>
@@ -26,10 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL / SQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" title="REST API" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50"/>
 </p>
+
 
 <hr style="border: 1px solid #1F2937;" />
 
