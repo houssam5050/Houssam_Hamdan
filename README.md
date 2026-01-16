@@ -27,6 +27,11 @@
       BackOffice Management System
     </a>
   </li>
+  <li>
+    <a href="https://hamdan-houssam.idsmobile.com/portfolio/">
+      My Portfolio
+    </a>
+  </li>
 </ul>
 
 <hr style="border: 1px solid #1F2937;" />
