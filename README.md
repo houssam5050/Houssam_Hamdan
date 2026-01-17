@@ -28,7 +28,7 @@
     </a>
   </li>
   <li>
-    <a href="https://hamdan-houssam.idsmobile.com/portfolio/">
+    <a href="https://hamdan-houssam.idsmobile.com">
       My Portfolio
     </a>
   </li>
