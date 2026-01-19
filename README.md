@@ -23,7 +23,7 @@
 
 <ul>
   <li>
-    <a href="https://hamdan-houssam.idsmobile.com/backoffice/products.php" target="_blank">
+    <a href="https://hamdan-houssam.idsmobile.com/backoffice/index.php" target="_blank">
       BackOffice Management System
     </a>
   </li>
