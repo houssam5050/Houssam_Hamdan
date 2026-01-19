@@ -55,7 +55,9 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/Houssam HM" target="_blank">
+  <a href="www.linkedin.com/in/
+houssam-hm-669368342
+" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       title="LinkedIn"
