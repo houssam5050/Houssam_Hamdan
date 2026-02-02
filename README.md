@@ -1,74 +1,74 @@
-<div align="center">
+<div align="center" style="font-family: Arial, sans-serif;">
 
-# Houssam Hamdan
+  <h1 style="margin-bottom: 5px;">
+    Hi, I'm <span style="color:#4F46E5;">Houssam</span>
+  </h1>
 
-### Full Stack Developer | Student
+  <h3 style="margin-top: 0; color: #9CA3AF;">
+    Full Stack Developer • Student at Digital Solidarity Incubator – Salé
+  </h3>
 
-📧 hossamhamdan4545@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/houssam-hm-669368342) | [GitHub](https://github.com/houssan5050) | [YouTube](https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Full Stack Developer** currently studying at the **Digital Solidarity Incubator in Salé**. I specialize in building modern web applications with clean code and great user experiences.
-
-**Education:** Digital Solidarity Incubator – Salé  
-**Focus:** Full Stack Web Development  
-**Location:** Morocco
-
----
-
-## 🚀 Projects
-
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **Marketplace** | E-commerce platform with full functionality | [View](https://hamdan-houssam.idsmobile.com) |
-| **BackOffice System** | Management dashboard for business operations | [View](https://hamdan-houssam.idsmobile.com/backoffice) |
-| **Portfolio Website** | Personal portfolio showcasing my work | [View](https://hamdan-houssam.idsmobile.com/portfolio) |
-
----
-
-## 💻 Technologies
-
-### **Proficient:**
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** PHP, Laravel, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman
-
-### **Currently Learning:**
-- React Native (Mobile Development)
-- Advanced JavaScript & TypeScript
-- Node.js
-
----
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=houssan5050&show_icons=true&theme=default&hide_title=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=houssan5050&layout=compact&hide_title=true)
-
----
-
-## 📫 Contact
-
-Feel free to reach out for collaborations or opportunities:
-
-- **Email:** hossamhamdan4545@gmail.com
-- **LinkedIn:** [linkedin.com/in/houssam-hm-669368342](https://www.linkedin.com/in/houssam-hm-669368342)
-- **GitHub:** [github.com/houssan5050](https://github.com/houssan5050)
-- **YouTube:** [My Channel](https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg)
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  <p style="max-width: 700px; font-size: 16px; line-height: 1.6;">
+    I am a passionate <strong>Full Stack Developer</strong> who enjoys building
+    clean, efficient, and scalable web applications.
+    I continuously improve my skills through real-world projects.
+  </p>
 
 </div>
+
+<hr style="border: 1px solid #1F2937;" />
+
+<h2>🚀 My Projects</h2>
+<br>
+
+<ul>
+  <li>
+    <a href="https://hamdan-houssam.idsmobile.com" target="_blank">fronrOffice(Marketplace)</a>
+  </li>
+  <li>
+    <a href="https://hamdan-houssam.idsmobile.com/backoffice/index.php" target="_blank">
+      BackOffice Management System
+    </a>
+  </li>
+  <li>
+    <a href="https://hamdan-houssam.idsmobile.com/portfolio/">
+      My Portfolio
+    </a>
+  </li>
+</ul>
+
+<hr style="border: 1px solid #1F2937;" />
+
+<h2 align="center">🛠 Technologies I Use</h2>
+
+<p align="center" style="white-space: nowrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL / SQL" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50"/>
+</p>
+
+<hr style="border: 1px solid #1F2937;" />
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/houssam-hm-669368342" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      title="LinkedIn"
+      width="45"
+      style="margin-right: 15px;"
+    />
+  </a>
+<br>
+  
+<a href="https://www.youtube.com/channel/UCCAY4oTbDXcfYYa0RRuUgjg" target="_blank" title="YouTube">My youtube chanel</a>
 
 
 
