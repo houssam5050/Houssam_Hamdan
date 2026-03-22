@@ -14,7 +14,7 @@ Full Stack Developer skilled in building complete web and mobile applications, h
 
 <div align="left">
 
-- 🌱 I'm currently learning **i'm currently learning react native/js/react**
+- 🌱 I'm currently learning ** react native/js/react**
 
 </div>
 
