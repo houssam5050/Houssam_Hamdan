@@ -55,9 +55,7 @@ The Digital Solidarity Incubator (IDS) provides hands-on training in web and mob
 
 ## 🌐 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/Houssam Hamdan)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ho.ussam_hm)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/www.youtube.com/@houssams7284)
+<div align="center">[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ho.ussam_hm)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/www.youtube.com/@houssams7284)
 
 </div>
 
