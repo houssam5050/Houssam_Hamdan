@@ -1,115 +1,60 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Houssam%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20stack%20developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-# Hi 👋, I'm houssam
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=houssam5050">
+    <img src="https://komarev.com/ghpvc/?username=houssam5050&label=Profile%20views&color=00FFFF&style=flat-square" alt="houssam5050's profile views" />
+  </a>
+</p>
 
-### I am a passionate Full Stack Developer who enjoys building clean, efficient, and scalable web applications. I continuously improve my skills through real-world projects.
+## 📌 About Me
+- I am a passionate Full Stack Developer who enjoys building clean, efficient, and scalable web applications. I continuously improve my skills through real-world projects.
 
-</div>
 
-## 🚀 About Me
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/houssam5050">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=houssam5050&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="houssam5050's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=houssam5050&theme=monokai&hide_border=true&cache_seconds=86400" alt="houssam5050's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=houssam5050&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Houssam 's GitHub Trophies" />
+</p>
 
-Full Stack Developer skilled in building complete web and mobile applications, handling everything from frontend design to backend logic and database integration.
 
-## 📚 Learning & Knowledge
+## 🛠️ Languages & Tools
 
-<div align="left">
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-- 🌱 I'm currently learning ** react native/js/react**
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
 
-</div>
+> ## Backend
+<p align="center"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🚀 Projects
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
 
-| Project | Description | Links |
-|---|---|---|
-| MarketPlace | Marketplace for shoping the products (any category you want)    with all backend tools  auth/order/cart /... | [Live](https://hamdan-houssam.idsmobile.com/) |
-| Admin Panel | web aplication  that give you all abilities to manage the back office of a marketplace  | [Live](https://hamdan-houssam.idsmobile.com/backoffice/) |
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
 
-### MarketPlace
+<p align="center">
+  <a href="https://github.com/houssam5050">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=houssam5050&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-**Technologies Used:** laravel, php, html, css, sql, bootsrap
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/houssam-hamdan-669368342/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Houssam 's LinkedIn"/></a> <a href="https://www.youtube.com/@houssams7284?app=desktop" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Houssam 's YouTube"/></a> <a href="mailto:hossamhamdan4545@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Houssam 's Email"/></a></p>
 
-### Admin Panel
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-**Technologies Used:** php, html, css, bootsrap, sql
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Digital Solidarity Incubator – Salé |  | 2025-10 - 2026-07 |
-
-###  in mobile and web development
-*Digital Solidarity Incubator – Salé*
-
-The Digital Solidarity Incubator (IDS) provides hands-on training in web and mobile development, covering frontend, backend, and database technologies. The program focuses on real-world projects, teamwork, and practical skills, helping students become full stack developers ready for the job market.
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **hossamhamdan4545@gmail.com**
-- 👨‍💻 All of my projects are available at [https://hamdan-houssam.idsmobile.com/portfolio/](https://hamdan-houssam.idsmobile.com/portfolio/)
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/Houssam Hamdan)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ho.ussam_hm)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/www.youtube.com/@houssams7284)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 💻 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 💻 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💻 DevOps
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 💻 Framework
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 💻 Software
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 💻 Other
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+<p align="center"><a href="https://www.buymeacoffee.com/6992540211015700" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
-
-
 
